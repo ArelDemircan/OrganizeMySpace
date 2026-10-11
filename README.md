@@ -91,9 +91,6 @@ OrganizeMySpace is designed to keep file organization under the user's control.
 * [ ] Improve file categorization
 * [ ] Add more organization options
 * [ ] Improve accessibility and keyboard navigation
-* [ ] Add more screenshots and a demonstration
-* [ ] Publish a downloadable macOS release
-
 ---
 
 ## 🤝 Contributing
